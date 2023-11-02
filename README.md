@@ -1,4 +1,4 @@
-[![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png)
+[MasterHead](https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png)
 <h1 align="center">Hi 👋, I'm MÜCAHİT MEHMET KÜÇÜKTEPE</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
